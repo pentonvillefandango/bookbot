@@ -1,0 +1,19 @@
+
+{
+  "typeCheckingMode": "basic",
+
+  "reportUnusedImport": "none",
+  "reportUnusedVariable": "none",
+  "reportUnusedFunction": "none",
+  "reportUnusedClass": "none",
+  "reportUnusedExpression": "none"
+}
+{
+  "typeCheckingMode": "basic",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ]
+}
